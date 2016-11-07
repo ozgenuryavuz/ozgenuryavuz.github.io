@@ -1,13 +1,16 @@
 ---
-title: Ullamco Laboris minim veniam
+title: Banka Projesi
 layout: post
 ---
 
-![]({{ site.baseurl }}/assets/images/pic03.jpg)
-{: .image.featured}
+<span class="image featured"><img src="{{ site.baseurl }}/assets/images/bank/1.png" alt=""></span>
+<!-- <h3>Sed lorem adipiscing</h3> -->
+<br/>
 
-### Consectetur tempor ut dolore
-
-Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat..
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<span class="image"><img src="{{ site.baseurl }}/assets/images/bank/2.png" alt="" width="500px;"></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/bank/3.png" alt="" width="500px;"></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/bank/4.png" alt="" width="500px;"></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/bank/5.png" alt="" width="500px;"></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/bank/6.png" alt="" width="500px;"></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/bank/7.png" alt="" width="500px;"></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/bank/8.png" alt="" width="500px;"></span>

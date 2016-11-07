@@ -1,9 +1,16 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet
+title: Villa
 layout: post
 ---
 
-<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt=""></span>
-<h3>Non aute irure</h3>
-<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<span class="image featured"><img src="{{ site.baseurl }}/assets/images/villa/7.jpg" alt=""></span>
+<br/>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/1.jpg" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/2.jpg" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/3.jpg" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/4.jpg" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/5.jpg" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/6.jpg" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/7.jpg" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/8.jpg" height="300px;" alt=""></span>
+<!-- <p>Belki bir cumle</p> -->

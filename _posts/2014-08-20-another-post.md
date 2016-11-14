@@ -13,4 +13,8 @@ layout: post
 <span class="image"><img src="{{ site.baseurl }}/assets/images/villa/6.jpg" height="300px;" alt=""></span>
 <span class="image"><img src="{{ site.baseurl }}/assets/images/villa/7.jpg" height="300px;" alt=""></span>
 <span class="image"><img src="{{ site.baseurl }}/assets/images/villa/8.jpg" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/9.png" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/10.png" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/11.png" height="300px;" alt=""></span>
+<span class="image"><img src="{{ site.baseurl }}/assets/images/villa/12.png" height="300px;" alt=""></span>
 <!-- <p>Belki bir cumle</p> -->
